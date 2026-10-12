@@ -1,0 +1,3 @@
+# Cubic Number (Easy)
+
+...
